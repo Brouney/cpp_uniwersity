@@ -1,2 +1,2 @@
 # cpp_uniwersity
-Mappoint
+its repository with my programs from pogramming lessons
